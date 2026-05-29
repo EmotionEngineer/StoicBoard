@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_desc">Клавиатура для осознанного общения</string>
+    <string name="settings">Настройки</string>
+    <string name="current_policy">Активные правила</string>
+    <string name="setup">Подключение</string>
+    <string name="privacy">Конфиденциальность</string>
+    <string name="privacy_desc">StoicBoard не имеет доступа к интернету. Весь ввод обрабатывается только локально.</string>
+    <string name="enable_settings">Включить StoicBoard в настройках Android</string>
+    <string name="choose_keyboard">Переключиться на StoicBoard</string>
+
+    <string name="back">Назад</string>
+    <string name="save">Сохранить</string>
+    <string name="reset_defaults">Сбросить настройки</string>
+    <string name="settings_subtitle">Параметры ввода</string>
+
+    <string name="delay_windows">Окна задержки</string>
+    <string name="delay_windows_sub">Интервалы удержания для разблокировки</string>
+    <string name="safe_zone_hint">В приложениях-исключениях клавиатура открывается мгновенно, без задержки.</string>
+
+    <string name="heat_control">Контроль перегрева</string>
+    <string name="heat_control_sub">Лимит скорости печати и время блокировки</string>
+    <string name="speed_limit">Лимит скорости</string>
+    <string name="sensitivity">Чувствительность</string>
+    <string name="cooldown">Время блокировки</string>
+    <string name="show_heat_bar">Показывать индикатор нагрева</string>
+
+    <string name="backspace">Backstop</string>
+    <string name="backspace_sub">Защита от импульсивного удаления</string>
+    <string name="session_typed">Символов до активации защиты</string>
+    <string name="hold_delay">Задержка перед повтором</string>
+    <string name="repeat_speed">Интервал повтора</string>
+    <string name="bulk_delete">Лимит непрерывного удаления</string>
+    <string name="always_active">0 — всегда активна</string>
+
+    <string name="app_classes">Категории приложений</string>
+    <string name="app_classes_sub">Назначение приложений по категориям задержки</string>
+    <string name="make_unlisted_safe">Считать приложения без категории исключениями</string>
+    <string name="block_double_excl">Блокировать двойной восклицательный в рабочих приложениях</string>
+
+    <string name="typing_languages">Языки ввода</string>
+    <string name="typing_languages_sub">Языки для быстрого переключения на клавиатуре</string>
+    <string name="app_language">Язык приложения</string>
+    <string name="app_language_sub">Язык интерфейса настроек</string>
+    <string name="lang_system">Системный</string>
+
+    <string name="kb_think">ФОКУС</string>
+    <string name="kb_hold">Удерживайте</string>
+    <string name="kb_safe_zone">ИСКЛЮЧЕНИЕ</string>
+    <string name="kb_messenger">ЧАТЫ</string>
+    <string name="kb_work">РАБОТА</string>
+    <string name="kb_standard">СТАНДАРТНЫЙ</string>
+    <string name="kb_cooling_down">Слишком быстро</string>
+    <string name="kb_pause">Сделайте глубокий вдох</string>
+    <string name="kb_safe">БЕЗ ЛИМИТОВ</string>
+    <string name="kb_stoic">STOIC</string>
+    <string name="kb_sym">SYM</string>
+
+    <string name="cat_default">Стандарт</string>
+    <string name="cat_messenger">Чаты</string>
+    <string name="cat_work">Работа</string>
+    <string name="min_delay">Минимальная задержка</string>
+    <string name="max_delay">Максимальная задержка</string>
+    <string name="safe_zone">Зона исключений</string>
+    <string name="no_delay">Без задержки</string>
+    <string name="messenger_delay_sub">Окно задержки для чатов</string>
+    <string name="work_delay_sub">Окно задержки для работы</string>
+    <string name="edit">Изменить</string>
+    <string name="search_placeholder">Поиск приложения или пакета</string>
+    <string name="apps_unit">прил.</string>
+    <string name="selected_unit">выбрано</string>
+    <string name="done">Готово</string>
+    <string name="chars_unit">симв.</string>
+</resources>

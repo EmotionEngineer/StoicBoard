@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_desc">Клавіатура для усвідомленого спілкування</string>
+    <string name="settings">Налаштування</string>
+    <string name="current_policy">Активні правила</string>
+    <string name="setup">Підключення</string>
+    <string name="privacy">Конфіденційність</string>
+    <string name="privacy_desc">StoicBoard не має доступу до інтернету. Весь ввід обробляється виключно локально.</string>
+    <string name="enable_settings">Увімкнути StoicBoard у налаштуваннях Android</string>
+    <string name="choose_keyboard">Перейти на StoicBoard</string>
+
+    <string name="back">Назад</string>
+    <string name="save">Сохранити</string>
+    <string name="reset_defaults">Скинути налаштування</string>
+    <string name="settings_subtitle">Параметри введення</string>
+
+    <string name="delay_windows">Вікна затримки</string>
+    <string name="delay_windows_sub">Інтервали утримання для розблокування клавіатури</string>
+    <string name="safe_zone_hint">У додатках-винятках клавіатура відкривається миттєво, без затримки.</string>
+
+    <string name="heat_control">Контроль перегріву</string>
+    <string name="heat_control_sub">Ліміт швидкості друку та час блокування</string>
+    <string name="speed_limit">Ліміт швидкості</string>
+    <string name="sensitivity">Чутливість</string>
+    <string name="cooldown">Час блокування</string>
+    <string name="show_heat_bar">Показувати індикатор нагріву</string>
+
+    <string name="backspace">Backstop</string>
+    <string name="backspace_sub">Захист від імпульсивного видалення</string>
+    <string name="session_typed">Символів до активації захисту</string>
+    <string name="hold_delay">Затримка перед повтором</string>
+    <string name="repeat_speed">Інтервал повтору</string>
+    <string name="bulk_delete">Ліміт безперервного видалення</string>
+    <string name="always_active">0 — завжди активний</string>
+
+    <string name="app_classes">Категорії додатків</string>
+    <string name="app_classes_sub">Призначення додатків за категоріями затримки</string>
+    <string name="make_unlisted_safe">Вважати додатки без категорії винятками</string>
+    <string name="block_double_excl">Блокувати подвійний знак оклику у робочих додатках</string>
+
+    <string name="typing_languages">Мови введення</string>
+    <string name="typing_languages_sub">Мови для швидкого перемикання на клавіатурі</string>
+    <string name="app_language">Мова додатку</string>
+    <string name="app_language_sub">Мова інтерфейсу налаштувань</string>
+    <string name="lang_system">Системна</string>
+
+    <string name="kb_think">ФОКУС</string>
+    <string name="kb_hold">Утримуйте</string>
+    <string name="kb_safe_zone">ВИНЯТОК</string>
+    <string name="kb_messenger">ЧАТИ</string>
+    <string name="kb_work">РОБОТА</string>
+    <string name="kb_standard">СТАНДАРТНИЙ</string>
+    <string name="kb_cooling_down">Занадто швидко</string>
+    <string name="kb_pause">Зробіть глибокий вдих</string>
+    <string name="kb_safe">БЕЗ ЛІМІТІВ</string>
+    <string name="kb_stoic">STOIC</string>
+    <string name="kb_sym">SYM</string>
+
+    <string name="cat_default">Стандарт</string>
+    <string name="cat_messenger">Чати</string>
+    <string name="cat_work">Робота</string>
+    <string name="min_delay">Мінімальна затримка</string>
+    <string name="max_delay">Максимальна затримка</string>
+    <string name="safe_zone">Зона винятків</string>
+    <string name="no_delay">Без затримки</string>
+    <string name="messenger_delay_sub">Вікно затримки для чатів</string>
+    <string name="work_delay_sub">Вікно затримки для роботи</string>
+    <string name="edit">Змінити</string>
+    <string name="search_placeholder">Пошук додатка або пакета</string>
+    <string name="apps_unit">дод.</string>
+    <string name="selected_unit">вибрано</string>
+    <string name="done">Готово</string>
+    <string name="chars_unit">симв.</string>
+</resources>

@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">StoicBoard</string>
+    <string name="app_desc">Keyboard for mindful typing</string>
+    <string name="settings">Settings</string>
+    <string name="current_policy">Active rules</string>
+    <string name="setup">Setup</string>
+    <string name="privacy">Privacy</string>
+    <string name="privacy_desc">StoicBoard has no internet permission. All text is processed locally by the input method only.</string>
+    <string name="enable_settings">Enable StoicBoard in Android settings</string>
+    <string name="choose_keyboard">Switch to StoicBoard</string>
+
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="reset_defaults">Reset settings</string>
+    <string name="settings_subtitle">Input settings</string>
+
+    <string name="delay_windows">Delay windows</string>
+    <string name="delay_windows_sub">Hold-to-unlock intervals per app category</string>
+    <string name="safe_zone_hint">Exception apps open the keyboard immediately with no delay.</string>
+
+    <string name="heat_control">Heat control</string>
+    <string name="heat_control_sub">Typing speed limit and cooldown</string>
+    <string name="speed_limit">Speed limit</string>
+    <string name="sensitivity">Sensitivity</string>
+    <string name="cooldown">Cooldown duration</string>
+    <string name="show_heat_bar">Show heat bar</string>
+
+    <string name="backspace">Backstop</string>
+    <string name="backspace_sub">Deletion guard settings</string>
+    <string name="session_typed">Characters typed before guard activates</string>
+    <string name="hold_delay">Hold delay</string>
+    <string name="repeat_speed">Repeat interval</string>
+    <string name="bulk_delete">Bulk-delete limit</string>
+    <string name="always_active">0 — always active</string>
+
+    <string name="app_classes">App categories</string>
+    <string name="app_classes_sub">Assign apps to delay categories</string>
+    <string name="make_unlisted_safe">Treat uncategorised apps as exceptions</string>
+    <string name="block_double_excl">Block double exclamation in work apps</string>
+
+    <string name="typing_languages">Typing languages</string>
+    <string name="typing_languages_sub">Keyboard layouts available on the language key</string>
+    <string name="app_language">App language</string>
+    <string name="app_language_sub">Settings interface language</string>
+    <string name="lang_system">System</string>
+
+    <string name="kb_think">FOCUS</string>
+    <string name="kb_hold">Hold</string>
+    <string name="kb_safe_zone">EXCEPTION</string>
+    <string name="kb_messenger">CHATS</string>
+    <string name="kb_work">WORK</string>
+    <string name="kb_standard">STANDARD</string>
+    <string name="kb_cooling_down">Too fast</string>
+    <string name="kb_pause">Take a deep breath</string>
+    <string name="kb_safe">NO LIMITS</string>
+    <string name="kb_stoic">STOIC</string>
+    <string name="kb_sym">SYM</string>
+
+    <string name="cat_default">Default</string>
+    <string name="cat_messenger">Messenger</string>
+    <string name="cat_work">Work</string>
+    <string name="min_delay">Minimum delay</string>
+    <string name="max_delay">Maximum delay</string>
+    <string name="safe_zone">Safe Zone</string>
+    <string name="no_delay">No delay</string>
+    <string name="messenger_delay_sub">Messenger delay window</string>
+    <string name="work_delay_sub">Work delay window</string>
+    <string name="edit">Edit</string>
+    <string name="search_placeholder">Search app or package</string>
+    <string name="apps_unit">apps</string>
+    <string name="selected_unit">selected</string>
+    <string name="done">Done</string>
+    <string name="chars_unit">chars</string>
+</resources>

@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_desc">Teclado para escribir con atención plena</string>
+    <string name="settings">Ajustes</string>
+    <string name="current_policy">Reglas activas</string>
+    <string name="setup">Configuración</string>
+    <string name="privacy">Privacidad</string>
+    <string name="privacy_desc">StoicBoard no tiene permiso de internet. Todo el texto se procesa únicamente de forma local.</string>
+    <string name="enable_settings">Activar StoicBoard en los ajustes de Android</string>
+    <string name="choose_keyboard">Cambiar a StoicBoard</string>
+
+    <string name="back">Volver</string>
+    <string name="save">Guardar</string>
+    <string name="reset_defaults">Restablecer ajustes</string>
+    <string name="settings_subtitle">Parámetros de entrada</string>
+
+    <string name="delay_windows">Ventanas de retraso</string>
+    <string name="delay_windows_sub">Intervalos de espera para desbloquear el teclado</string>
+    <string name="safe_zone_hint">Las apps de excepción abren el teclado de inmediato, sin retraso.</string>
+
+    <string name="heat_control">Control de calor</string>
+    <string name="heat_control_sub">Límite de velocidad de escritura y duración del bloqueo</string>
+    <string name="speed_limit">Límite de velocidad</string>
+    <string name="sensitivity">Sensibilidad</string>
+    <string name="cooldown">Duración del bloqueo</string>
+    <string name="show_heat_bar">Mostrar barra de calor</string>
+
+    <string name="backspace">Backstop</string>
+    <string name="backspace_sub">Protección contra borrado impulsivo</string>
+    <string name="session_typed">Caracteres escritos antes de activar la protección</string>
+    <string name="hold_delay">Retardo antes de la repetición</string>
+    <string name="repeat_speed">Intervalo de repetición</string>
+    <string name="bulk_delete">Límite de borrado continuo</string>
+    <string name="always_active">0 — siempre activa</string>
+
+    <string name="app_classes">Categorías de apps</string>
+    <string name="app_classes_sub">Asigna apps a categorías de retraso</string>
+    <string name="make_unlisted_safe">Tratar las apps sin categoría como excepciones</string>
+    <string name="block_double_excl">Bloquear doble exclamación en apps de trabajo</string>
+
+    <string name="typing_languages">Idiomas de escritura</string>
+    <string name="typing_languages_sub">Distribuciones disponibles en la tecla de idioma</string>
+    <string name="app_language">Idioma de la app</string>
+    <string name="app_language_sub">Idioma de la interfaz de ajustes</string>
+    <string name="lang_system">Sistema</string>
+
+    <string name="kb_think">ENFOQUE</string>
+    <string name="kb_hold">Mantén</string>
+    <string name="kb_safe_zone">EXCEPCIÓN</string>
+    <string name="kb_messenger">CHATS</string>
+    <string name="kb_work">TRABAJO</string>
+    <string name="kb_standard">ESTÁNDAR</string>
+    <string name="kb_cooling_down">Demasiado rápido</string>
+    <string name="kb_pause">Respira profundo</string>
+    <string name="kb_safe">SIN LÍMITES</string>
+    <string name="kb_stoic">STOIC</string>
+    <string name="kb_sym">SYM</string>
+
+    <string name="cat_default">Por defecto</string>
+    <string name="cat_messenger">Mensajería</string>
+    <string name="cat_work">Trabajo</string>
+    <string name="min_delay">Retraso mínimo</string>
+    <string name="max_delay">Retraso máximo</string>
+    <string name="safe_zone">Zona segura</string>
+    <string name="no_delay">Sin retraso</string>
+    <string name="messenger_delay_sub">Retraso para chats</string>
+    <string name="work_delay_sub">Retraso para trabajo</string>
+    <string name="edit">Editar</string>
+    <string name="search_placeholder">Buscar app o paquete</string>
+    <string name="apps_unit">apps</string>
+    <string name="selected_unit">seleccionadas</string>
+    <string name="done">Listo</string>
+    <string name="chars_unit">carac.</string>
+</resources>
